@@ -1,2 +1,2 @@
-# Aurum-Strength
+# Preferences pages Aurum-Strength
 Aurum Strength
